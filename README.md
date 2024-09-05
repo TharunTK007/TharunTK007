@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **FullStack Java,Spring,hibernet,JDBC,JSP,ReactJs,NodeJs**
 
-- 💬 Ask me about **Android,React**
+- 💬 Ask me about **Android,Web**
 
 - 📫 How to reach me **tharunkumarg13@gmail.com**
 
