@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharuntk007" alt="tharuntk007" /></a> </p>
 
-- 🔭 I’m currently working on [TodoList](https://tharuntk007.github.io/todoList/)
+- 🔭 I’m currently working on Java
 
 - 🌱 I’m currently learning **FullStack Java,Spring,hibernet,JDBC,JSP,ReactJs,NodeJs**
 
